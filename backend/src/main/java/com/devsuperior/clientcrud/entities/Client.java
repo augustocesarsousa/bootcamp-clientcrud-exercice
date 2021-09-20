@@ -41,7 +41,6 @@ public class Client implements Serializable{
 	}
 
 	public Client(Long id, String name, String cpf, Double income, Integer children, Instant birthDate) {
-		super();
 		this.id = id;
 		this.name = name;
 		this.cpf = cpf;

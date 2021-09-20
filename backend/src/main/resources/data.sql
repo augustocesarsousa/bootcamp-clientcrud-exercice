@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Antonio Enzo de Almeida','12345678901',2000.00,1,TIMESTAMP WITH TIME ZONE '1998-05-02T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Joaquina Maria dos Santos','12345678901',3600.00,0,TIMESTAMP WITH TIME ZONE '1991-11-15T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Felipe Jose Camargo','12345678901',5750.00,3,TIMESTAMP WITH TIME ZONE '1985-03-21T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Bruno Kaique de Oliveira','12345678901',1730.00,0,TIMESTAMP WITH TIME ZONE '2001-01-09T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Jose Maria Brito','12345678901',8760.00,5,TIMESTAMP WITH TIME ZONE '1973-05-12T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Raimunda Faria de Lima','12345678901',5690.00,2,TIMESTAMP WITH TIME ZONE '1986-04-29T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Rafael Arthur dos Santos','12345678901',3560.00,0,TIMESTAMP WITH TIME ZONE '1990-06-09T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Juliana Rosa dos Santos','12345678901',2300.00,3,TIMESTAMP WITH TIME ZONE '1994-07-19T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Jose Alberto Oliveira','12345678901',4980.00,2,TIMESTAMP WITH TIME ZONE '1979-09-09T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Carmem Lucia Tabasco','12345678901',9450.00,3,TIMESTAMP WITH TIME ZONE '1982-07-10T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Santiago Nino de Lucca','12345678901',3980.00,0,TIMESTAMP WITH TIME ZONE '1996-11-16T00:00:00.00000Z', NOW());
+INSERT INTO tb_client (name, cpf, income, children, birth_date, created_At) VALUES ('Manuel Thiago Farias','12345678901',2870.00,4,TIMESTAMP WITH TIME ZONE '1989-12-25T00:00:00.00000Z', NOW());
